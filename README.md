@@ -25,5 +25,5 @@
 # Gif
 ![Alt Text](https://media0.giphy.com/media/g7GKcSzwQfugw/200.gif)
 
-# Gemacht von
+# Erstellt von
 ***Cyril***
