@@ -1,11 +1,14 @@
 # Melvin
 
 
-Fett = ** Text **      **FETT**
+Fett = ** Text **      
+**FETT**
 
-Kursiv = * Text *        *Kursiv*
+Kursiv = * Text *        
+*Kursiv*
 
-Beides = *** Text *** ***Beides***
+Beides = *** Text *** 
+***Beides***
 
 
 ![Alt Text](https://user-images.githubusercontent.com/110893288/183603239-1c063f90-0301-4d8b-9ee7-d09e4c973c22.png)
