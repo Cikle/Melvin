@@ -1,15 +1,6 @@
 # Melvin
 
 
-Fett = ** Wort **      
-**FETT**
-
-Kursiv = * Wort *        
-*Kursiv*
-
-Beides = *** Wort *** 
-***Beides***
-
 
 ![Alt Text](https://user-images.githubusercontent.com/110893288/183603239-1c063f90-0301-4d8b-9ee7-d09e4c973c22.png)
 
