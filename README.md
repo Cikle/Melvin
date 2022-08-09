@@ -7,10 +7,13 @@ https://www.instagram.com/ciklehd/
 
 # Characters
 
+* Text * =
 *Kursiv*
 
+** Text ** =
 **Fett**
 
+*** Text ***
 ***Fett und Kursiv***
 
 
