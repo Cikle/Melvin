@@ -3,7 +3,7 @@
 
 Fett = ** Text **      **FETT**
 
-Krusiv = * Text *        *Krusiv*
+Kursiv = * Text *        *Kursiv*
 
 Beides = *** Text *** ***Beides***
 
