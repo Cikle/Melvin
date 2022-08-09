@@ -1,13 +1,13 @@
 # Melvin
 
 
-Fett = ** Text **      
+Fett = ** Wort **      
 **FETT**
 
-Kursiv = * Text *        
+Kursiv = * Wort *        
 *Kursiv*
 
-Beides = *** Text *** 
+Beides = *** Wort *** 
 ***Beides***
 
 
