@@ -6,11 +6,9 @@
 
 
 # Characters
-* Text * =
+`*Text*` =
 *Kursiv* :
 *Hallo Welt*
-
-
 
 
 ** Text ** =
