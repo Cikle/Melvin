@@ -7,15 +7,15 @@
 
 # Characters
 * Text * =
-*Kursiv*:
+*Kursiv* :
 *Hallo Welt*
 
 ** Text ** =
-**Fett**: 
+**Fett** :
 **Hallo Welt**
 
 *** Text *** =
-***Fett und Kursiv***:
+***Fett und Kursiv*** :
 ***Hallo Welt***
 
 
