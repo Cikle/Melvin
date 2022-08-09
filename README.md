@@ -6,6 +6,6 @@
 ![Alt Text](https://c.tenor.com/8DgS448_gykAAAAM/glizzy.gif)
 
 **FETT**
-Fett
-*Krusiv* Kursiv
+Fett/
+*Krusiv* Kursiv/
 ***Beides*** Beides
