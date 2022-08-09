@@ -6,15 +6,15 @@
 
 
 # Characters
-* Text  =
+* Text * =
 *Kursiv*:
 *Hallo Welt*
 
-** Text  =
+** Text ** =
 **Fett**: 
 **Hallo Welt**
 
-*** Text =
+*** Text *** =
 ***Fett und Kursiv***:
 ***Hallo Welt***
 
