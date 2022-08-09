@@ -7,5 +7,6 @@
 
 Fett = ** Text ** **FETT**
 
-*Krusiv* Kursiv/
-***Beides*** Beides
+Krusiv = * Text * *Krusiv*
+
+Beides = *** Text *** ***Beides***
