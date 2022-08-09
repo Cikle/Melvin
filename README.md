@@ -7,16 +7,16 @@
 
 # Characters
 * Text  =
-*Kursiv*
+*Kursiv*:
 *Hallo Welt*
 
 ** Text  =
-**Fett**
-**Hallo Welt
+**Fett**: 
+**Hallo Welt**
 
 *** Text =
-***Fett und Kursiv***
-***Hallo Welt
+***Fett und Kursiv***:
+***Hallo Welt***
 
 
 # Bild
