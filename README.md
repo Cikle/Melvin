@@ -6,8 +6,6 @@
 
 
 # Characters
-
-
 * Text * =
 *Kursiv*
 
